@@ -1,0 +1,31 @@
+Drill Size Table Report
+-----------------------
+
+Report Written : 27.06.2013 13:45:29
+Design Path    : S:\1003_GestIC\GestIC_Hillstar\Pulsonix\I2C_to_USB_Bridge\I2C_to_USB_Bridge_V1_0_2.pcb
+Design Title   : 
+Created        : 31.10.2012 15:51:05
+Last Saved     : 27.06.2013 13:15:48
+Editing Time   : 3099 min
+
+Drill Size Table
+----------------
+
+Units: mm
+Tolerance: 0.00
+Step: 0.00
+
+Diameter   Count   Plated   Id   Symbol   Symbol Size   Symbol Filled   Min Diameter   Max Diameter	Description
+
+0.00          2       Y     A    Round     0.00               Y                                    	           
+0.25         41       Y     B    Round     0.25               Y         0.25           0.25        	           
+
+Drill ID Parameters
+-------------------
+
+Text Style:  Normal
+
+Offset (from right edge of symbol)  X: 0.000  Y: 0.000 mm
+
+
+                ---------------- End Of Report ----------------
